@@ -1,0 +1,322 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="linea">
+		<item></item>        
+		<item>1A</item>
+		<item>1AP</item>
+		<item>2A</item>
+		<item>700</item>
+		<item>701</item>
+		<item>701-704</item>
+		<item>702</item>
+		<item>703</item>
+		<item>704</item>
+		<item>705</item>
+		<item>706</item>
+		<item>707</item>
+		<item>708</item>
+		<item>709</item>
+		<item>710</item>
+		<item>711</item>
+		<item>711-710</item>
+		<item>712</item>
+		<item>713</item>
+		<item>714</item>
+		<item>724</item>
+		<item>750</item>
+		<item>751</item>
+		<item>751-757</item>
+		<item>751-758</item>
+		<item>752</item>
+		<item>753</item>
+		<item>754</item>
+		<item>755</item>
+		<item>756</item>
+		<item>757</item>
+		<item>757-751</item>
+		<item>757-758</item>
+		<item>758</item>
+		<item>758-751</item>
+		<item>758-757</item>
+		<item>759</item>
+		<item>760</item>
+		<item>761</item>
+		<item>7A</item>
+		<item>7E5</item>
+		<item>7E7R</item>
+		<item>7E8R</item>
+		<item>7F</item>
+		<item>7H</item>
+		<item>801</item>
+		<item>802</item>
+		<item>803</item>
+		<item>804</item>
+		<item>805</item>
+		<item>806</item>
+		<item>807</item>
+		<item>808</item>
+		<item>809</item>
+		<item>810</item>
+		<item>8AE</item>
+		<item>8E7R</item>
+		<item>8E8R</item>
+		<item>9C</item>
+		<item>CONT3</item>
+		<item>DM1</item>
+    </string-array>
+    
+    <string-array name="desde">
+        <item></item>
+		<item>AEROPARQUE</item>
+		<item>AEROPUERTO</item>
+		<item>AEROPUERTO.</item>
+		<item>AEROPUERTO..</item>
+		<item>AFE JUANICO</item>
+		<item>AFE P.PLATA</item>
+		<item>Agencia CUCHILLA ALTA</item>
+		<item>Agencia LAS PIEDRAS</item>
+		<item>Almacén CALCAGNO</item>
+		<item>BARRA PINAR</item>
+		<item>Barrio OBRERO</item>
+		<item>Bello HORIZONTE</item>
+		<item>C.E.M.</item>
+		<item>CASSARINO</item>
+		<item>CERRILLOS</item>
+		<item>COLINAS de Solymar</item>
+		<item>COSTA URBANA SHOPP.</item>
+		<item>Casa Hugo López</item>
+		<item>Cementerio CANELONES</item>
+		<item>Cno.Américas</item>
+		<item>Cno.Piedritas y R.84</item>
+		<item>Control CANELONES</item>
+		<item>Cárcel de CANELONES</item>
+		<item>EL TALAR</item>
+		<item>ESCUELA TIEMPO COMPLETO CASSARINO</item>
+		<item>Emp.NICOLICH</item>
+		<item>Empalme DECHIA</item>
+		<item>Empalme OLMOS</item>
+		<item>Escuela PIEDRITAS</item>
+		<item>Estación ATLANTIDA</item>
+		<item>Estación FLORESTA</item>
+		<item>GALICIA Y RIO BRANCO</item>
+		<item>GUAZUBIRA</item>
+		<item>Giannatt.y Becú _Acera NORTE_</item>
+		<item>IB y M.Castro</item>
+		<item>IB-Horm.Pinar</item>
+		<item>INSTITUTO ADVENTISTA</item>
+		<item>JAUREGUIBERRY</item>
+		<item>KM.28 DE RUTA 5</item>
+		<item>Km.0 Andaluz</item>
+		<item>Km.36 R.5-Juanicó</item>
+		<item>LABORATORIO MICROSULES K.28 R.101</item>
+		<item>LAS BRUJAS</item>
+		<item>LICEO CNO.VENTURA</item>
+		<item>M.Castro y Gestido</item>
+		<item>MONTES</item>
+		<item>MONTEVIDEO</item>
+		<item>Municipio PASO CARRASCO</item>
+		<item>PANDO</item>
+		<item>PANTANOSO</item>
+		<item>PASO CARRASCO</item>
+		<item>PEAJE PANDO</item>
+		<item>PORTONES SHOPPING</item>
+		<item>PROGRESO</item>
+		<item>PUNTA CARRETAS</item>
+		<item>Parada GEANT GIANNATTASIO</item>
+		<item>Pque.del PLATA</item>
+		<item>Puente LA PAZ</item>
+		<item>R.8 Km.22</item>
+		<item>R.8 Km.40 BARRERAS</item>
+		<item>R.8 Km.42 Esc.Loustaunau</item>
+		<item>Repecho HIGUERAS</item>
+		<item>Ruta 8 Km.26</item>
+		<item>SALINAS</item>
+		<item>SAN JACINTO</item>
+		<item>SANTA ANA</item>
+		<item>SANTA LUCIA</item>
+		<item>SOCA</item>
+		<item>SOLYMAR</item>
+		<item>SOLYMAR NORTE</item>
+		<item>SOLYMAR.</item>
+		<item>SOLYMAR..</item>
+		<item>SUAREZ</item>
+		<item>SUAREZ-PANDO</item>
+		<item>Sta.Lucía del ESTE</item>
+		<item>TERMINAL GEANT</item>
+		<item>TOLEDO</item>
+		<item>TRES CRUCES</item>
+		<item>Term.MARINDIA</item>
+		<item>VILLA HADITA</item>
+		<item>Villa Alegría</item>
+		<item>Villa TAJAMAR</item>
+    </string-array>
+    <string-array name="hacia">
+        <item></item>
+		<item>A.Gde.y Uruguay</item>
+		<item>AEROPARQUE</item>
+		<item>AEROPUERTO</item>
+		<item>AFE JUANICO</item>
+		<item>AFE P.PLATA</item>
+		<item>Agencia CUCHILLA ALTA</item>
+		<item>Agencia LAS PIEDRAS</item>
+		<item>Almacén CALCAGNO</item>
+		<item>BARRA PINAR</item>
+		<item>Barrio OBRERO</item>
+		<item>Bello HORIZONTE</item>
+		<item>C.E.M.</item>
+		<item>CASSARINO</item>
+		<item>CERRILLOS</item>
+		<item>COLINAS de Solymar</item>
+		<item>COSTA URBANA SHOPP.</item>
+		<item>Casa Hugo López</item>
+		<item>Cementerio CANELONES</item>
+		<item>Cno.Américas</item>
+		<item>Cno.Piedritas y R.84</item>
+		<item>Control CANELONES</item>
+		<item>Cárcel de CANELONES</item>
+		<item>EL TALAR</item>
+		<item>Escuela PIEDRITAS</item>
+		<item>Estación ATLANTIDA</item>
+		<item>Estación FLORESTA</item>
+		<item>GALICIA Y RIO BRANCO</item>
+		<item>GUAZUBIRA</item>
+		<item>Giannatt.y Becú _Acera NORTE_</item>
+		<item>IB-Horm.Pinar</item>
+		<item>IB.Km.24 _LICEO_</item>
+		<item>INSTITUTO ADVENTISTA</item>
+		<item>JAUREGUIBERRY</item>
+		<item>Km.0 Andaluz</item>
+		<item>Km.36 R.5-Juanicó</item>
+		<item>LABORATORIO MICROSULES K.28 R.101</item>
+		<item>LAS BRUJAS</item>
+		<item>LICEO ATLANTIDA</item>
+		<item>LICEO SALINAS</item>
+		<item>LICEO SHANGRILA</item>
+		<item>M.Castro y Gestido</item>
+		<item>M.Castro y Giannattasio</item>
+		<item>MONTES</item>
+		<item>MONTEVIDEO</item>
+		<item>Municipio PASO CARRASCO</item>
+		<item>Obelisco LAS PIEDRAS</item>
+		<item>PANDO</item>
+		<item>PANTANOSO</item>
+		<item>PASO CARRASCO</item>
+		<item>PORTONES SHOPPING</item>
+		<item>PROGRESO</item>
+		<item>PUNTA CARRETAS</item>
+		<item>Pque.del PLATA</item>
+		<item>Puente LA PAZ</item>
+		<item>R.8 Km.22</item>
+		<item>R.8 Km.40 BARRERAS</item>
+		<item>R.8 Km.42 Esc.Loustaunau</item>
+		<item>Ruta 8 Km.26</item>
+		<item>SALINAS</item>
+		<item>SAN JACINTO</item>
+		<item>SANTA ANA</item>
+		<item>SANTA LUCIA</item>
+		<item>SOCA</item>
+		<item>SUAREZ</item>
+		<item>SUAREZ-_R.84 y Lavalleja_</item>
+		<item>TERMINAL GEANT</item>
+		<item>TOLEDO</item>
+		<item>TRES CRUCES</item>
+		<item>Term.MARINDIA</item>
+		<item>VILLA HADITA</item>
+		<item>Villa Alegría</item>
+    </string-array>
+    <string-array name="por">
+        <item></item>
+		<item>AEROPARQUE</item>
+		<item>AEROPUERTO</item>
+		<item>AEROPUERTO.</item>
+		<item>AEROPUERTO..</item>
+		<item>AFE JUANICO</item>
+		<item>AFE P.PLATA</item>
+		<item>Agencia CUCHILLA ALTA</item>
+		<item>Agencia LAS PIEDRAS</item>
+		<item>Almacén CALCAGNO</item>
+		<item>BARRA PINAR</item>
+		<item>Barrio OBRERO</item>
+		<item>Bello HORIZONTE</item>
+		<item>Bello Horizonte DIRECTO</item>
+		<item>C.E.M.</item>
+		<item>CANELONES DIRECTO</item>
+		<item>CASSARINO</item>
+		<item>CERRILLOS</item>
+		<item>COLINAS de Solymar</item>
+		<item>COSTA URBANA SHOPP.</item>
+		<item>Cementerio CANELONES</item>
+		<item>Control CANELONES</item>
+		<item>Cárcel de CANELONES</item>
+		<item>EL TALAR</item>
+		<item>Empalme OLMOS</item>
+		<item>Estación ATLANTIDA</item>
+		<item>Estación FLORESTA</item>
+		<item>GALICIA Y RIO BRANCO</item>
+		<item>GUAZUBIRA</item>
+		<item>Giannatt.y Becú _Acera NORTE_</item>
+		<item>IB-Horm.Pinar</item>
+		<item>IB.Km.24 _LICEO_</item>
+		<item>INSTITUTO ADVENTISTA</item>
+		<item>JAUREGUIBERRY</item>
+		<item>JUANICO DIRECTO</item>
+		<item>Km.0 Andaluz</item>
+		<item>Km.36 R.5-Juanicó</item>
+		<item>LABORATORIO MICROSULES K.28 R.101</item>
+		<item>LAS BRUJAS</item>
+		<item>LICEO ATLANTIDA</item>
+		<item>LICEO SALINAS</item>
+		<item>LICEO SHANGRILA</item>
+		<item>La Floresta-Bello Horizonte</item>
+		<item>M.Castro y Gestido</item>
+		<item>M.Castro y Giannattasio</item>
+		<item>MARINDIA DIRECTO</item>
+		<item>MIGUES-MONTES</item>
+		<item>MONTEVIDEO</item>
+		<item>MONTEVIDEO DIRECTO</item>
+		<item>Municipio PASO CARRASCO</item>
+		<item>NEPTUNIA-SALINAS</item>
+		<item>Obelisco LAS PIEDRAS</item>
+		<item>PANDO</item>
+		<item>PANDO DIRECTO</item>
+		<item>PANTANOSO</item>
+		<item>PASO CARRASCO</item>
+		<item>PINAR DIRECTO</item>
+		<item>PORTONES SHOPPING</item>
+		<item>PROGRESO</item>
+		<item>PROGRESO DIRECTO</item>
+		<item>PUNTA CARRETAS</item>
+		<item>Pque.PLATA DIRECTO</item>
+		<item>Pque.del PLATA</item>
+		<item>Puente LA PAZ</item>
+		<item>R.8 Km.22</item>
+		<item>R.8 Km.40 BARRERAS</item>
+		<item>R.8 Km.42 Esc.Loustaunau</item>
+		<item>Ruta 8 Km.26</item>
+		<item>SALINAS</item>
+		<item>SALINAS DIRECTO</item>
+		<item>SAN JACINTO</item>
+		<item>SANTA ANA</item>
+		<item>SANTA LUCIA</item>
+		<item>SOCA</item>
+		<item>SOLYMAR</item>
+		<item>SOLYMAR NORTE</item>
+		<item>SOLYMAR.</item>
+		<item>SOLYMAR..</item>
+		<item>SUAREZ</item>
+		<item>SUAREZ C.E.M.</item>
+		<item>SUAREZ DIRECTO</item>
+		<item>SUAREZ-PANDO</item>
+		<item>Santa Lucía DIRECTO</item>
+		<item>TALAR</item>
+		<item>TAPIA</item>
+		<item>TERMINAL GEANT</item>
+		<item>TOLEDO</item>
+		<item>TRES CRUCES</item>
+		<item>Term.MARINDIA</item>
+		<item>VILLA HADITA</item>
+		<item>Villa Alegría</item>
+		<item>ZONAMERICA</item>
+    </string-array>
+    
+</resources>
